@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibekhacker" alt="bibekhacker" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **Android Studio and unity**
 
 - 👨‍💻My project showcase are available at [https://www.linkedin.com/in/bibek-saha-03837419a/](https://www.linkedin.com/in/bibek-saha-03837419a/)
 
 - 💬 Ask me about **android studio,java**
 
-- 📫 How to reach me **bibeksahabiki@gmail.com**
+- 📫 How to reach me **bibeksahabiki@gmail.com** and [https://bibekhacker.github.io/](https://bibekhacker.github.io/)
 
-- ⚡ Fun fact **i am not funny😁😂**
+- ⚡ Fun fact **i am not funny at all😁😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
