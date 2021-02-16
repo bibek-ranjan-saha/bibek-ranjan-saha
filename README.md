@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Android Studio and unity**
 
-- 👨‍💻My project showcase are available at [https://www.linkedin.com/in/bibek-saha-03837419a/](https://www.linkedin.com/in/bibek-saha-03837419a/)
+- 👨‍💻My project showcase are available at [Linkedin](https://www.linkedin.com/in/bibek-saha-03837419a/)
 
 - 💬 Ask me about **android studio,java**
 
-- 📫 How to reach me **bibeksahabiki@gmail.com** and [https://bibekhacker.github.io/](https://bibekhacker.github.io/)
+- 📫 How to reach me **bibeksahabiki@gmail.com** and [bibekhacker.github.io](https://bibekhacker.github.io/)
 
 - ⚡ Fun fact **i am not funny at all😁😂**
 
