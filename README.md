@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bibek ranjan saha</h1>
 <h3 align="center">A passionate developer/tech-lover from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekhacker&label=Profile%20views&color=0e75b6&style=flat" alt="bibekhacker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibek-ranjan-saha&label=Profile%20views&color=0e75b6&style=flat" alt="bibek saha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibekhacker" alt="bibekhacker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibek-ranjan-saha" alt="bibek ranjan saha" /></a> </p>
 
 - 🌱 I’m currently learning **Android Studio and unity**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **android studio,java**
 
-- 📫 How to reach me **bibeksahabiki@gmail.com** and [bibekhacker.github.io](https://bibekhacker.github.io/)
+- 📫 How to reach me **bibeksahabiki@gmail.com** and [bibek-ranjan-saha.github.io](https://bibek-ranjan-saha.github.io/)
 
 - ⚡ Fun fact **i am not funny at all😁😂**
 
